@@ -139,7 +139,7 @@ Here is a schematic representation of our development workflow:
 - [Node 18+](https://nodejs.org/en/)
 - Yarn Workspaces should be enabled on your machine:
   - `yarn config set workspaces-experimental true`
-
+- Remarks: Use nvm to install Node and yarn. Following the website (https://nodejs.org/en/download). Never use apt-get!!!
 ### Getting Started
 
 1. [Fork this repository][how-to-fork]
